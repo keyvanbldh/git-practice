@@ -1,6 +1,10 @@
 # git-practice
 
-this is from 
+this is from
 
-kayoo
+kayo
+
+for second
+
+
 
